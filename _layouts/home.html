@@ -6,9 +6,7 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<div>
-  5
-</div>
+
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -16,10 +14,6 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
-
-<div>
-  2
-</div>
 
 
 
@@ -29,19 +23,6 @@ layout: archive
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 
-  <div>
-    1
-  </div>
-
-
-</div>
-
-
-<div>
-  여기는 또 어딘가 중앙에 적음
-</div>
-
-
 
 
 
@@ -49,16 +30,13 @@ layout: archive
 {% include paginator.html %}
 
 
-<div class="col-lg-4 col-mg-2">
+<!-- <div class="col-lg-4 col-mg-2">
   <ul>
     {% for category in site.categories %}
       <li> <a href="/category/{{ category | first }}"> {{ category | first }}  ({{ category | last | size}}) </a> </li>
     {% endfor %}
   </ul>
 
-</div>
+</div> -->
 
 
-<div>
-  여기의 위치는 어디??
-</div>
