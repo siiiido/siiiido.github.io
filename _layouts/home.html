@@ -21,15 +21,17 @@ layout: archive
 
 
 
-<div class="col-lg-4 col-mg-2">
-  <ul>
-    {% for category in site.categories %}
-      <li> <a href="/category/{{ category | first }}"> {{ category | ㅣlast }}  ({{ category | last | size}}) </a> </li>
-    {% endfor %}
-  </ul>
-
-</div>
 
 
 
 {% include paginator.html %}
+
+
+<div class="col-lg-4 col-mg-2">
+  <ul>
+    {% for category in site.categories %}
+      <li> <a href="/category/{{ category | first }}"> {{ category | first }}  ({{ category | last | size}}) </a> </li>
+    {% endfor %}
+  </ul>
+
+</div>
