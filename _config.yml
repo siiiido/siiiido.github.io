@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "하남읍 명례리"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "송상한"
-description              : "An amazing website."
+name                     : "뭐적기"
+description              : "여기에는 또 뭐 적지"
 url                      : "https://siiiido.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -120,16 +120,16 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
+# footer:
+  # links:
     # - label: "Twitter"
       # icon: "fab fa-fw fa-twitter-square"
       # url:
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    # - label: "GitHub"
+      # icon: "fab fa-fw fa-github"
       # url:
     # - label: "GitLab"
       # icon: "fab fa-fw fa-gitlab"
@@ -208,9 +208,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5 # amount of posts to show, 첫 페이지에 보여줄 최근 게시물 수를 지정
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -275,7 +275,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: true  #왼쪽의 소개가 true는 보이는 것, false는 안 보이는 것
       read_time: true
       comments: # true
       share: true
