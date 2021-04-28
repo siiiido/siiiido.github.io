@@ -2,6 +2,8 @@
 main:
   - title: "블로그 방문하기"
     url: https://siiiido.github.io
+  - title: "Categories"
+    url: /categories/
   - title: "About"
     url: /about/ #https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
