@@ -4,8 +4,8 @@ main:
     url: https://siiiido.github.io
   - title: "Categories"
     url: /categories/
-  - title: "윤동주"
-    url: /categories/윤동주/
+  # - title: "윤동주"
+  #   url: /categories/윤동주/
   - title: "About"
     url: /about/ #https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
