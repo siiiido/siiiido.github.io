@@ -1,11 +1,11 @@
 ---
 title:  "javascript 뒤죽박죽 기록하기(WesBos day 14 reference-copy)"
-excerpt: ""
+excerpt: "배열과 객체의 copy와 reference, arr.slice(), arr.concat(), spread(...)와 Array.from, Object.assign, JSON.stringify, JSON.parse"
 
 categories:
   - javascript
 
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-19
 ---
 
 
