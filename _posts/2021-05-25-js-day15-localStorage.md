@@ -1,5 +1,5 @@
 ---
-title:  "javascript 뒤죽박죽 기록하기(WesBos day 16 css shadow)"
+title:  "javascript 뒤죽박죽 기록하기(WesBos day 15 localStorage)"
 excerpt: "localStorage와 sessionStorage, matches(), event.preventDefault()"
 
 categories:
