@@ -5,9 +5,8 @@ excerpt: "form"
 categories:
   - javascript
 
-last_modified_at: 2021-06-28
+last_modified_at: 2021-07-16
 ---
-
 form
 ```html
 <form name="my">
