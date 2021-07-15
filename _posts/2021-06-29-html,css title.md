@@ -47,6 +47,6 @@ padding의 경우도 마찬가지
 --------------------------
 
 ## 반응형 nav
-* https://www.youtube.com/watch?v=X91jsJyZofw&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=15&ab_channel=드림코딩by엘리
+* <https://www.youtube.com/watch?v=X91jsJyZofw&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=15&ab_channel=드림코딩by엘리>
 
-* https://www.youtube.com/watch?v=gXkqy0b4M5g&t=447s&ab_channel=DevEd
+* <https://www.youtube.com/watch?v=gXkqy0b4M5g&t=447s&ab_channel=DevEd>
